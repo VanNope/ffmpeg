@@ -1,0 +1,11 @@
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/lfg.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/md5.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/attributes.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/version.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/macros.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/intreadwrite.h
+libavutil/lfg.o: C:/msys/1.0/home/Chuck/ffmpeg/libavutil/avconfig.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/bswap.h
+libavutil/lfg.o: C:/msys/1.0/home/Chuck/ffmpeg/config.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/x86/bswap.h
+libavutil/lfg.o: c:/msys/1.0/home/chuck/ffmpeg/libavutil/x86/intreadwrite.h
