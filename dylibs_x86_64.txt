@@ -1,0 +1,14 @@
+./libavcodec/libavcodec.57.dylib
+./libavcodec/libavcodec.dylib
+./libavdevice/libavdevice.57.dylib
+./libavdevice/libavdevice.dylib
+./libavfilter/libavfilter.6.dylib
+./libavfilter/libavfilter.dylib
+./libavformat/libavformat.57.dylib
+./libavformat/libavformat.dylib
+./libavutil/libavutil.55.dylib
+./libavutil/libavutil.dylib
+./libswresample/libswresample.2.dylib
+./libswresample/libswresample.dylib
+./libswscale/libswscale.4.dylib
+./libswscale/libswscale.dylib
